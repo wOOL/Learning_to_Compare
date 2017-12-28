@@ -1,2 +1,5 @@
-# Learning_to_Compare
-Demo for the paper titled "Learning to Compare: Relation Network for Few-Shot Learning"
+# Learning to Compare: Relation Network for Few-Shot Learning
+
+## Sung et al, arXiv:1711.06025, 2017
+
+Demo code
